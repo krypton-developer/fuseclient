@@ -4,7 +4,7 @@ A clean utility client for **Minecraft 1.21.11** (Fabric). Fuse is **free**: log
 
 **Get Fuse:** https://dashboard.fuseclient.com  
 **Website:** https://fuseclient.com  
-**Discord:** https://discord.gg/um7saN5vjh
+**Discord:** https://discord.gg/fuseclient
 
 > This repo holds guides and the place to report bugs. There is no source code and no download here.
 > Fuse is only ever downloaded from **dashboard.fuseclient.com**. Any other download is not Fuse.

@@ -25,4 +25,4 @@ Your licence locks to the first PC you play on. On the dashboard go to **Tools >
 Check it's turned on and look at its settings. If it still doesn't work, open a **Bug report** issue here or ask in the Discord.
 
 ### Where do I get help?
-The Discord: https://discord.gg/um7saN5vjh
+The Discord: https://discord.gg/fuseclient

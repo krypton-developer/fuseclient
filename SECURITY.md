@@ -4,7 +4,7 @@
 
 - Download: **https://dashboard.fuseclient.com**
 - Website: **https://fuseclient.com**
-- Discord: **https://discord.gg/um7saN5vjh**
+- Discord: **https://discord.gg/fuseclient**
 - This GitHub repo (no downloads here)
 
 Anything else calling itself Fuse, including "cracked" or "free premium" versions, is fake and may steal your account.

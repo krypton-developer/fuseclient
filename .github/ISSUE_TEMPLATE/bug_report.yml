@@ -1,0 +1,36 @@
+name: Bug report
+description: Something in Fuse doesn't work right
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Never post your licence key, your jar or your log with personal info in it."
+  - type: input
+    id: module
+    attributes:
+      label: Module or screen
+      placeholder: e.g. Flight, the HUD editor, the config page
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: launcher
+    attributes:
+      label: Launcher
+      placeholder: Vanilla, Modrinth, Prism, Dawn...
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other mods
+      description: List any other mods in your mods folder.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshot or video
+      description: Drag files in here if you have them.

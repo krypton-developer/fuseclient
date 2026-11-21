@@ -1,0 +1,17 @@
+name: Suggestion
+description: An idea for a new module or a change
+labels: [suggestion]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Your idea in one line
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What should it do?
+      description: How it works, and why it would help.
+    validations:
+      required: true
